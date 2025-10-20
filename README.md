@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Marcelo Parsotam
+# Hi, I'm Marcelo Parsotam
 
-💻 **Computer Science Student | UI Developer | Software Engineer in Progress**
+**Computer Science Student | UI Developer | Software Engineer in Progress**
 
 I’m passionate about **building intuitive and functional user interfaces**, **integrating data-driven systems**, and continuously improving how people interact with technology. My work focuses on combining **clean design** with **efficient backend logic**, ensuring smooth, real-world user experiences.
 
@@ -36,5 +36,5 @@ You can view my full CV here: [**View CV (PDF)**](https://drive.google.com/file/
 
 ---
 
-*“Technology should empower, not overwhelm.”*  
+*“Every piece of software should make someone feel the same excitement I felt as a player.”*  
 — Marcelo Parsotam
