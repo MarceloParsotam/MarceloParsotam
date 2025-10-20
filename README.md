@@ -6,33 +6,27 @@ I’m passionate about **building intuitive and functional user interfaces**, **
 
 ---
 
-## 🚀 About Me
-- 🎓 **3rd-Year Computer Science Student** at the University of Pretoria  
-- 🌐 Passionate about **Frontend Development**, **Data Integration**, and **AI-assisted Systems**  
-- 🧠 Currently mastering **Angular**, **React**, and **Java Spring**  
-- ⚡ Always exploring how **technology and creativity** can work hand in hand  
-- 💬 I believe in *"Building systems that think and interfaces that feel."*
+## About Me
+- **3rd-Year Computer Science Student** at the University of Pretoria  
+- Passionate about **Frontend Development**, **Data Integration**, and **AI-assisted Systems**  
+- Currently mastering **Angular**, **React**, and **Java Spring**  
+- Always exploring how **technology and creativity** can work hand in hand  
+- I believe in *"Building systems that think and interfaces that feel."*
 
 ---
 
-## 🧾 Curriculum Vitae
-📄 You can view my full CV here: [**View CV (PDF)**](https://drive.google.com/file/d/1SbEMnevOemUi78N4RXMkEG02ccD0_o6y/view?usp=sharing)
+## Curriculum Vitae
+You can view my full CV here: [**View CV (PDF)**](https://drive.google.com/file/d/1SbEMnevOemUi78N4RXMkEG02ccD0_o6y/view?usp=sharing)
 
 ---
 
-## 🔗 Connect With Me
-- 💼 [**LinkedIn Profile**](https://www.linkedin.com/in/marcelo-parsotam-5965bb355)
-- 📧 **Email:** [marcelo.parsotam20@gmail.com](mailto:marcelo.parsotam20@gmail.com)
+## Connect With Me
+- [**LinkedIn Profile**](https://www.linkedin.com/in/marcelo-parsotam-5965bb355)
+- **Email:** [marcelo.parsotam20@gmail.com](mailto:marcelo.parsotam20@gmail.com)
 
 ---
 
-## 🖼️ Profile Image
-*(Don’t forget to upload a professional profile image on your GitHub profile!)*  
-Having a clear, friendly headshot helps personalize your GitHub presence.
-
----
-
-### ⚙️ Skills Snapshot
+### Skills Snapshot
 | Category | Technologies |
 |-----------|---------------|
 | **Frontend** | Angular, React, HTML, CSS, JavaScript, TypeScript |
@@ -42,5 +36,5 @@ Having a clear, friendly headshot helps personalize your GitHub presence.
 
 ---
 
-⭐ *“Technology should empower, not overwhelm.”*  
+*“Technology should empower, not overwhelm.”*  
 — Marcelo Parsotam
