@@ -22,7 +22,7 @@ I’m passionate about **building intuitive and functional user interfaces**, **
 
 ## 🔗 Connect With Me
 - 💼 [**LinkedIn Profile**](https://www.linkedin.com/in/marcelo-parsotam-5965bb355)
-- 📧 **Email:** [marcelo.parsotam20@example.com](mailto:marcelo.parsotam20@example.com)
+- 📧 **Email:** [marcelo.parsotam20@gmail.com](mailto:marcelo.parsotam20@gmail.com)
 
 ---
 
