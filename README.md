@@ -30,8 +30,8 @@ You can view my full CV here: [**View CV (PDF)**](https://drive.google.com/file/
 | Category | Technologies |
 |-----------|---------------|
 | **Frontend** | Angular, React, HTML, CSS, JavaScript, TypeScript |
-| **Backend** | Java (Spring Boot), Node.js, PHP |
-| **Databases** | MySQL, MongoDB, SQLite |
+| **Backend** | Java (Spring Boot), Node.js, PHP, C++, C, C# |
+| **Databases** | MySQL, MongoDB, SQLite, PostgreSQL, MariaDB |
 | **Other Tools** | Git, Docker, VS Code, IntelliJ, Figma |
 
 ---
