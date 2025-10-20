@@ -36,5 +36,16 @@ You can view my full CV here: [**View CV (PDF)**](https://drive.google.com/file/
 
 ---
 
-*“Every piece of software should make someone feel the same excitement I felt as a player.”*  
-— Marcelo Parsotam
+## Hobbies & Interests
+I enjoy activities that keep my creativity and imagination alive:
+- **Coding** – experimenting with new frameworks and side projects  
+- **Gaming** – exploring immersive worlds and understanding what makes experiences engaging  
+- **Drawing** – sketching ideas and concepts that often inspire my UI designs  
+- **Painting** – finding calm and focus through visual expression  
+- **Listening to Music** – enhancing concentration and creativity while working  
+- **Movies** – appreciating storytelling, pacing, and visual design that influence how I build interfaces  
+
+---
+
+> *“Games should inspire, not intimidate — and every line of code should serve the player.”*  
+> — Marcelo Parsotam
