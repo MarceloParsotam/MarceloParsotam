@@ -16,7 +16,7 @@ I’m passionate about **building intuitive and functional user interfaces**, **
 ---
 
 ## 🧾 Curriculum Vitae
-📄 You can view my full CV here: [**View CV (PDF)**]([./Marcelo_Parsotam_CV.pdf](https://drive.google.com/file/d/1SbEMnevOemUi78N4RXMkEG02ccD0_o6y/view?usp=sharing))
+📄 You can view my full CV here: [**View CV (PDF)**](https://drive.google.com/file/d/1SbEMnevOemUi78N4RXMkEG02ccD0_o6y/view?usp=sharing)
 
 ---
 
